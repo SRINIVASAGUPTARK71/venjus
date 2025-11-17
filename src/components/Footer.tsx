@@ -92,16 +92,16 @@ export default function Footer() {
             </div>
            
             <div className="flex space-x-3">
-              <a href="#" className="w-10 h-10 bg-gray-800 rounded-full flex items-center justify-center hover:bg-orange-600 hover:scale-110 transition-all duration-300">
+              <a href="https://www.facebook.com/profile.php?viewas=100000686899395&id=61583654798549" className="w-10 h-10 bg-gray-800 rounded-full flex items-center justify-center hover:bg-orange-600 hover:scale-110 transition-all duration-300">
                 <Facebook className="w-4 h-4" />
               </a>
-              <a href="#" className="w-10 h-10 bg-gray-800 rounded-full flex items-center justify-center hover:bg-orange-600 hover:scale-110 transition-all duration-300">
+              <a href="https://x.com/VPPLBharat" className="w-10 h-10 bg-gray-800 rounded-full flex items-center justify-center hover:bg-orange-600 hover:scale-110 transition-all duration-300">
                 <Twitter className="w-4 h-4" />
               </a>
               <a href="#" className="w-10 h-10 bg-gray-800 rounded-full flex items-center justify-center hover:bg-orange-600 hover:scale-110 transition-all duration-300">
                 <Instagram className="w-4 h-4" />
               </a>
-              <a href="#" className="w-10 h-10 bg-gray-800 rounded-full flex items-center justify-center hover:bg-orange-600 hover:scale-110 transition-all duration-300">
+              <a href="https://www.linkedin.com/in/venjas-pharma-835a03375/" className="w-10 h-10 bg-gray-800 rounded-full flex items-center justify-center hover:bg-orange-600 hover:scale-110 transition-all duration-300">
                 <Linkedin className="w-4 h-4" />
               </a>
             </div>
